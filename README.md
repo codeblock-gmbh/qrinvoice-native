@@ -15,7 +15,7 @@ https://bitbucket.org/codeblockgmbh/qrinvoice-cpp/
 
 ## Links
 
-Offical Product Website: https://www.qr-invoice.ch
+Official Product Website: https://www.qr-invoice.ch
 
 Official Product Documentation: https://docs-native.qr-invoice.ch
 
