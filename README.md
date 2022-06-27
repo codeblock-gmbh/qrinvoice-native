@@ -19,7 +19,9 @@ Official Product Website: https://www.qr-invoice.ch
 
 Official Product Documentation: https://docs-native.qr-invoice.ch
 
-Demo Application http://demo.qr-invoice.ch
+Demo Application: https://demo.qr-invoice.cloud
+
+Free to use Web Application: https://app.qr-invoice.cloud/
 
 ## Relevant Search Terms
 
